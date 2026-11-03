@@ -174,7 +174,7 @@ class ModernAffineApp(ctk.CTk):
 if __name__ == "__main__":
 
     app = ModernAffineApp()
-    
+
     app.mainloop()
 
 
